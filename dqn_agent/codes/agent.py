@@ -185,7 +185,6 @@ def pre_processing(observe):
         resize(rgb2gray(observe), (84, 84), mode='constant') * 255)
     return processed_observe
 
-
 if __name__ == "__main__":
     env = loa_game.Env()
 
