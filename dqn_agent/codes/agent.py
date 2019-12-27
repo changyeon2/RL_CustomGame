@@ -14,7 +14,6 @@ import gym
 
 EPISODE_NUM = 1 # for training, set this with other number
 
-
 class Agent:
     def __init__(self):
         self.render = True # set this True for rendering game
