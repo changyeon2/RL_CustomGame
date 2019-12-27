@@ -1,4 +1,4 @@
-# RL_CustomGame
+# Custom_made_Game_RL
 
 Set virtual environment using requirements.txt
 
