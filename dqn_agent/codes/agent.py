@@ -220,7 +220,6 @@ if __name__ == "__main__":
             global_step += 1
             step += 1
 
-
             action = agent.get_action(history)
 
             # proceed one step
