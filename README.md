@@ -1,6 +1,6 @@
 # Custom made Game RL
 
-## <b>Deep RL project(using DQN)</b>
+## <b>Deep RL project (using DQN)</b>
 
 Set virtual environment using dqn_agent/requirements.txt
 
